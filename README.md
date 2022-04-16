@@ -1,4 +1,4 @@
-<h1 align="center"> sarah `8ball` </h1>
+# sarah `8ball`
 sarah `8ball` is a simple `8ball` plugin for the [famous sarah discord bot](https://dottedco.github.io/sarah/), which given any question replies with one of the following answers randomly:
 - **Yes**
 - **No**
