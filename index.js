@@ -9,7 +9,7 @@ let c8ballcmd = async (message, args, client, _, __) => {
 
   const resp = new MessageEmbed()
   .setTitle("***8ball***")
-  .setDescription(`The response to ${question}\n\n is:\n**${random}**`)
+  .setDescription(`The response to \`${question}\`\nis:\n**${random}**`)
   .setColor("PURPLE")
   .setThumbnail(message.guild.iconURL())
   .setTimestamp()
